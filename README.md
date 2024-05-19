@@ -1,5 +1,6 @@
-## Data & Analytics Stack
-![My Skills](https://skillicons.dev/icons?i=py,docker,gcp,mysql,postgres,bitbucket,github,githubactions,vscode,postman,figma,firebase,ubuntu,debian&perline=7)
+## Data & Analytics Engineering Stack
+
+![My Skills](https://skillicons.dev/icons?i=py,ai,docker,gcp,mysql,postgres,bitbucket,github,githubactions,vscode,postman,figma,firebase,linux&perline=7)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanildoBarauna&hide=stars,contribs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=default&include_all_commits=true&rank_icon=github)
 
