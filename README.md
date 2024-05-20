@@ -15,8 +15,6 @@
   </a>
 </p>
 
-![IvanildoBarauna's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvanildoBarauna&theme=default&hide_border=true)
-
 
 
 
