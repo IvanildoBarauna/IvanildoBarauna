@@ -2,6 +2,8 @@
 
 ![My Skills](https://skillicons.dev/icons?i=py,ai,docker,gcp,mysql,postgres,bitbucket,github,githubactions,vscode,postman,figma,firebase,linux&perline=7)
 
+![IvanildoBarauna's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IvanildoBarauna&theme=dracula&hide_border=true)
+
 ##
 <p align="left">
   <a href="https://github.com/IvanildoBarauna/ETL-awesome-api">
