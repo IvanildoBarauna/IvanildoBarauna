@@ -1,9 +1,8 @@
 ## Ivanildo Barauna de Souza Junior
-Sou um profissional de Data Analytics com vasta experiência na produção e consumo de dados, focando na jornada end-to-end de dados como produto. Transformo dados em insights decisivos para os negócios.
+Sou um profissional de Data Analytics com experiência na produção e consumo de dados, focado na jornada end-to-end de dados como produto, transformando-os em insights para os negócios.
+Atuei como Analista de BI, Data Analyst e Data & Analytics Engineer, trabalhando com Data Visualization, ETL, Data Modeling e tecnologias como Google Cloud Platform, Google BigQuery, Apache Beam, AirFlow, SQL, Power BI e Looker Studio.
 
-Atuei como Analista de BI, Data Analyst e Data & Analytics Engineer, trabalhando com Data Visualization, ETL, Data Modeling para Data Warehouse, Data Lake e Data Lake House. Utilizo ferramentas e tecnologias como Google Cloud Platform, Google BigQuery, Google Cloud Storage, Apache Beam, AirFlow, SQL, Power BI e Looker Studio.
-
-Participei de projetos de migração tecnológica, redução de custos de processamento de dados e promoção de uma cultura Data Driven. Tenho fortes habilidades analíticas para definir problemas de negócio e encontrar soluções através da análise de dados. Pontos fortes incluem pensamento crítico e analítico.
+Participei de projetos de migração tecnológica, redução de custos de processamento de dados e promoção de uma cultura Data Driven. Tenho fortes habilidades analíticas e pensamento crítico.
 
 ## Data & Analytics Engineering Stack
 ![My Skills](https://skillicons.dev/icons?i=py,docker,gcp,mysql,postgres,mongodb,bitbucket,github,githubactions,vscode,postman,figma,firebase,linux&perline=7)
