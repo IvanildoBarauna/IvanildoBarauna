@@ -1,13 +1,9 @@
 ## Ivanildo Barauna de Souza Junior
-Sou um profissional de Data Analytics com sólida experiência em produção e consumo de dados visando a jornada end-to-end de dados enquanto produto. Transformando a jornada de dados em insights decisivos para os negócios.
+Sou um profissional de Data Analytics com vasta experiência na produção e consumo de dados, focando na jornada end-to-end de dados como produto. Transformo dados em insights decisivos para os negócios.
 
-Nas últimas experiências atuei como Analista de BI, Data Analyst e Data & Analytics Engineer. Nesta jornada trabalhei com Data Visualization, diversas estratégias de ETL, Data Modeling para Data Warehouse, Data Lake e Data Lake House usando diversas ferramentas e tecnologias, como: Google Cloud Platform como Cloud Provider, Google BigQuery como Data Warehouse, Google Cloud Storage como Object Storage para trabalhar com integração e armazenamento de grandes volumes de dados, Apache Beam como framework de processamento distribuído, AirFlow para orquestração de pipelines, vasta experiência com SQL como linguagem principal, Power BI e Looker Studio para Data Visualization entre outras tecnologias.
+Atuei como Analista de BI, Data Analyst e Data & Analytics Engineer, trabalhando com Data Visualization, ETL, Data Modeling para Data Warehouse, Data Lake e Data Lake House. Utilizo ferramentas e tecnologias como Google Cloud Platform, Google BigQuery, Google Cloud Storage, Apache Beam, AirFlow, SQL, Power BI e Looker Studio.
 
-Participei de projetos visando migração de tecnologias, redução de custos de processamento de dados e fomento de educação cultura Data Driven.
-
-Grandes habilidades analíticas para definição de problema de negócio e buscar respostas e soluções através de análise exploratória de dados.
-
-Pontos fortes: Pensamento crítico e analítico.
+Participei de projetos de migração tecnológica, redução de custos de processamento de dados e promoção de uma cultura Data Driven. Tenho fortes habilidades analíticas para definir problemas de negócio e encontrar soluções através da análise de dados. Pontos fortes incluem pensamento crítico e analítico.
 
 ## Data & Analytics Engineering Stack
 ![My Skills](https://skillicons.dev/icons?i=py,docker,gcp,mysql,postgres,mongodb,bitbucket,github,githubactions,vscode,postman,figma,firebase,linux&perline=7)
