@@ -22,6 +22,6 @@ Data Visualization Stack
  </a>
   &nbsp;<!-- Espaço entre os componentes -->
   <a href="https://github.com/IvanildoBarauna">
-    <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanildoBarauna&hide_border=true" />
+    <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanildoBarauna&hide_border=true&layout=compact" />
   </a>
 </p>
