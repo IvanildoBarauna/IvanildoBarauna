@@ -10,8 +10,13 @@ Grandes habilidades analíticas para definição de problema de negócio e busca
 Pontos fortes: Pensamento crítico e analítico.
 
 ## Data & Analytics Engineering Stack
+![My Skills](https://skillicons.dev/icons?i=py,docker,gcp,mysql,postgres,mongodb,bitbucket,github,githubactions,vscode,postman,figma,firebase,linux&perline=7)
 
-![My Skills](https://skillicons.dev/icons?i=py,ai,docker,gcp,mysql,postgres,bitbucket,github,githubactions,vscode,postman,figma,firebase,linux&perline=7)
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" Alt="SQL Server" width="50" height="50"><img src="https://www.svgrepo.com/show/375551/bigquery.svg" Alt="Oracle" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" Alt="Oracle" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg" Alt="Poetry" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" Alt="Jupyter" width="50" height="50">
+
+Data Visualization Stack
+
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" Alt="Power BI" width="50" height="50"> <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" Alt="Looker Studio" width="50" height="50">
 
 
 ##
@@ -25,7 +30,3 @@ Pontos fortes: Pensamento crítico e analítico.
     <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanildoBarauna&hide_border=true" />
   </a>
 </p>
-
-
-
-
