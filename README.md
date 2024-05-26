@@ -4,6 +4,8 @@ Atuei como Analista de BI, Data Analyst e Data & Analytics Engineer, trabalhando
 
 Participei de projetos de migração tecnológica, redução de custos de processamento de dados e promoção de uma cultura Data Driven. Tenho fortes habilidades analíticas e pensamento crítico.
 
+![](https://komarev.com/ghpvc/?username=IvanildoBarauna)
+
 ## Data & Analytics Engineering Stack
 ![My Skills](https://skillicons.dev/icons?i=py,docker,gcp,mysql,postgres,mongodb,bitbucket,github,githubactions,vscode,postman,figma,firebase,linux&perline=7)
 
