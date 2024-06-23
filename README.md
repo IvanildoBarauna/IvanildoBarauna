@@ -1,7 +1,4 @@
-## Ivanildo Barauna de Souza Junior (ivanildo.jnr@outlook.com)
-
-JetBrains Control: Request ID=13062024/14620482
-                   email=ivanildo.jnr@outlook.com
+## Ivanildo Barauna de Souza Junior
 
 
 I am a Data Analytics professional with experience in producing and consuming data, focused on the end-to-end journey of data as a product, transforming it into insights for business. I worked as a BI Analyst, Data Analyst and Data & Analytics Engineer, working with Data Visualization, ETL, Data Modeling and technologies such as Google Cloud Platform, Google BigQuery, Apache Beam, AirFlow, SQL, Power BI and Looker Studio.
