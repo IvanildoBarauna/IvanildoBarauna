@@ -6,7 +6,7 @@ I am a Data Analytics professional with experience in producing and consuming da
 I currently work as a software engineer for data products. In my rare free time I have been working with the Open Source community creating libraries that help Python developers and creating end-to-end data applications and distributing them using GitHub Packages and Google Cloud Plataform. 
 
 ## Data & Analytics Engineering Stack
-![My Skills](https://skillicons.dev/icons?i=py,docker,gcp,mysql,postgres,mongodb,bitbucket,github,githubactions,vscode,postman,figma,firebase,linux&perline=7)
+![My Skills](https://skillicons.dev/icons?i=py,docker,gcp,mysql,postgres,bitbucket,github,githubactions,vscode,pycharm,postman,figma,firebase,linux&perline=7)
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" Alt="SQL Server" width="50" height="50"><img src="https://www.svgrepo.com/show/375551/bigquery.svg" Alt="Oracle" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" Alt="Oracle" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg" Alt="Poetry" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" Alt="Jupyter" width="50" height="50">
 
