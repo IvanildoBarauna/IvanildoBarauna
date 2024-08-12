@@ -3,7 +3,7 @@
 
 I am a Data Analytics professional with experience in producing and consuming data, focused on the end-to-end journey of data as a product, transforming it into insights for business. I worked as a BI Analyst, Data Analyst and Data & Analytics Engineer, working with Data Visualization, ETL, Data Modeling and technologies such as Google Cloud Platform, Google BigQuery, Apache Beam, AirFlow, SQL, Power BI and Looker Studio.
 
-I currently work in data and software engineering.
+I currently work as a software engineer for data products. In my rare free time I have been working with the Open Source community creating libraries that help Python developers and creating end-to-end data applications and distributing them using GitHub Packages and Google Cloud Plataform. 
 
 ## Data & Analytics Engineering Stack
 ![My Skills](https://skillicons.dev/icons?i=py,docker,gcp,mysql,postgres,mongodb,bitbucket,github,githubactions,vscode,postman,figma,firebase,linux&perline=7)
