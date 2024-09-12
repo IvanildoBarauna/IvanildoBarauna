@@ -1,18 +1,18 @@
 ## Ivanildo Barauna de Souza Junior
 
+🇧🇷 Minha stack de tecnologia atual, sujeita a alterações ou atualizações sem aviso prévio. 🙂
+
+🇺🇸 My current technology stack, subject to changes or updates without prior notice. 🙂
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="70" height="70" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" width="70" height="70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="70" height="70"/>  <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" Alt="Looker Studio" width="70" height="70"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" Alt="Power BI" width="70" height="70"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="85" height="85" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="70" height="70"/>
+
+          
 
 I am a Data Analytics professional with experience in producing and consuming data, focused on the end-to-end journey of data as a product, transforming it into insights for business. I worked as a BI Analyst, Data Analyst and Data & Analytics Engineer, working with Data Visualization, ETL, Data Modeling and technologies such as Google Cloud Platform, Google BigQuery, Apache Beam, AirFlow, SQL, Power BI and Looker Studio.
 
 I currently work as a software engineer for data products. In my rare free time I have been working with the Open Source community creating libraries that help Python developers and creating end-to-end data applications and distributing them using GitHub Packages and Google Cloud Plataform. 
-
-## Data & Analytics Engineering Stack
-![My Skills](https://skillicons.dev/icons?i=py,docker,gcp,mysql,postgres,bitbucket,github,githubactions,vscode,pycharm,postman,figma,firebase,linux&perline=7)
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" Alt="SQL Server" width="50" height="50"><img src="https://www.svgrepo.com/show/375551/bigquery.svg" Alt="Oracle" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" Alt="Oracle" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original.svg" Alt="Poetry" width="50" height="50"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" Alt="Jupyter" width="50" height="50">
-
-Data Visualization Stack
-
-<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" Alt="Power BI" width="50" height="50"> <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" Alt="Looker Studio" width="50" height="50">
 
 
 ##
