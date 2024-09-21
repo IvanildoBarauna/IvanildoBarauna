@@ -18,8 +18,5 @@ I currently work as a software engineer for data products. In my rare free time 
     <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=IvanildoBarauna&hide=stars,contribs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=github&include_all_commits=true&rank_icon=percentile&hide_border=true" />
  
  </a>
-  &nbsp;<!-- Espaço entre os componentes -->
-  <a href="https://github.com/IvanildoBarauna">
-    <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanildoBarauna&hide_border=true&layout=compact" />
-  </a>
+
 </p>
