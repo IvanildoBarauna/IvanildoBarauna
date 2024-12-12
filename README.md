@@ -19,7 +19,7 @@ I currently work as a software engineer for data products. In my rare free time 
 ## Coding Activity over Last 30 Days 
 <p align="left">
   <a href="https://wakatime.com/@IvanildoBarauna">
-    <img align="bottom" src="https://wakatime.com/share/@IvanildoBarauna/c06d7f1c-9e44-4980-9937-7268aa69cfae.svg" width="600" height="500" />
+    <img align="bottom" src="https://wakatime.com/share/@IvanildoBarauna/c06d7f1c-9e44-4980-9937-7268aa69cfae.svg" width="600" height="400" />
   </a>
 </p>
 
@@ -27,6 +27,6 @@ I currently work as a software engineer for data products. In my rare free time 
 ## Languages 
 <p align="left">
   <a href="https://wakatime.com/@IvanildoBarauna">
-    <img align="bottom" src="https://wakatime.com/share/@IvanildoBarauna/e4fd09c4-c7d3-4912-8845-fda422806380.svg" width="600" height="500" />
+    <img align="bottom" src="https://wakatime.com/share/@IvanildoBarauna/e4fd09c4-c7d3-4912-8845-fda422806380.svg" width="600" height="400" />
   </a>
 </p>
