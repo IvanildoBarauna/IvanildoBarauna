@@ -25,6 +25,7 @@ I currently work as a software engineer for data products. In my rare free time 
 
 
 ## Languages 
+Sorry for this pie chart with too many elements 😅. This does not follow good Data Viz practices, but it's what I had on hand. 
 <p align="left">
   <a href="https://wakatime.com/@IvanildoBarauna">
     <img align="bottom" src="https://wakatime.com/share/@IvanildoBarauna/e4fd09c4-c7d3-4912-8845-fda422806380.svg" width="600" height="400" />
