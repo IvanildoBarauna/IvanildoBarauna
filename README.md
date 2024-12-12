@@ -16,18 +16,41 @@ I currently work as a software engineer for data products. In my rare free time 
 </p>
 
 
-## Coding Activity over Last 30 Days 
+### Coding Activity over Last 30 Days and Time Allocation in the last Year
 <p align="left">
   <a href="https://wakatime.com/@IvanildoBarauna">
-    <img align="bottom" src="https://wakatime.com/share/@IvanildoBarauna/c06d7f1c-9e44-4980-9937-7268aa69cfae.svg" width="600" height="400" />
+    <img align="bottom" src="https://wakatime.com/share/@IvanildoBarauna/91003684-e8e6-4bd7-bff7-d305c6054fb9.svg" width="600" height="400" />
+    <img align="bottom" src="https://wakatime.com/share/@IvanildoBarauna/d280a569-6fc0-439f-9164-9c4cd77d63ba.svg" width="600" height="400" />
   </a>
 </p>
 
 
-## Languages 
-Sorry for this pie chart with too many elements 😅. This does not follow good Data Viz practices, but it's what I had on hand. 
+## Programming Languages over Last Year
 <p align="left">
   <a href="https://wakatime.com/@IvanildoBarauna">
-    <img align="bottom" src="https://wakatime.com/share/@IvanildoBarauna/e4fd09c4-c7d3-4912-8845-fda422806380.svg" width="600" height="400" />
+    <img align="bottom" src="https://wakatime.com/share/@IvanildoBarauna/484e6b18-deb3-415b-a447-7ec3f4eae4f8.svg" width="600" height="400" />
   </a>
 </p>
+
+## Editor use over Last 7 Days
+<p align="left">
+  <a href="https://wakatime.com/@IvanildoBarauna">
+    <img align="bottom" src="https://wakatime.com/share/@IvanildoBarauna/58fb5ef6-1514-4a7a-b799-de24ff5d7c29.svg" width="600" height="400" />
+  </a>
+</p>
+
+## Operational System use over Last Year
+<p align="left">
+  <a href="https://wakatime.com/@IvanildoBarauna">
+    <img align="bottom" src="https://wakatime.com/share/@IvanildoBarauna/7fc02485-451d-44fb-845c-dae8e2a536b5.svg" width="600" height="400" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
