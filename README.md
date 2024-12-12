@@ -10,11 +10,20 @@ I am a Data Analytics professional with experience in producing and consuming da
 I currently work as a software engineer for data products. In my rare free time I have been working with the Open Source community creating libraries that help Python developers and creating end-to-end data applications and distributing them using GitHub Packages and Google Cloud Plataform. 
 
 
-##
+###
 <p align="left">
   <a href="https://github.com/IvanildoBarauna/ETL-awesome-api">
-    <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=IvanildoBarauna&hide=stars,contribs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=github&include_all_commits=true&rank_icon=percentile&hide_border=true" />
+    <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=IvanildoBarauna&hide=stars,contribs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=radical&include_all_commits=true&rank_icon=percentile&hide_border=true" />
  
  </a>
 
 </p>
+
+## Coding Activity Stats
+<p align="left">
+  <a href="https://wakatime.com/@IvanildoBarauna">
+    <img align="bottom" src="https://wakatime.com/share/@IvanildoBarauna/a289bc9a-ad12-4840-be89-b23ccade29ca.svg" width="1000" height="650" />
+  </a>
+</p>
+
+
