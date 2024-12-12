@@ -3,6 +3,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="50" height="50"/>
 
 ## About me          
+
 I am a Data Analytics professional with experience in producing and consuming data, focused on the end-to-end journey of data as a product, transforming it into insights for business. I worked as a BI Analyst, Data Analyst and Data & Analytics Engineer, working with Data Visualization, ETL, Data Modeling and technologies such as Google Cloud Platform, Google BigQuery, Apache Beam, AirFlow, SQL, Power BI and Looker Studio.
 
 I currently work as a software engineer for data products. In my rare free time I have been working with the Open Source community creating libraries that help Python developers and creating end-to-end data applications and distributing them using GitHub Packages and Google Cloud Plataform. 
@@ -16,6 +17,10 @@ I currently work as a software engineer for data products. In my rare free time 
  </a>
 </p>
 
+
+[![wakatime](https://wakatime.com/badge/user/9bacb91e-0cc8-45d9-bced-b7e2ced58634.svg?style=social)](https://wakatime.com/@9bacb91e-0cc8-45d9-bced-b7e2ced58634)        
+
+** Wakatime data collected from Nov/2024
 
 ### Coding Activity over Last 30 Days and Time Allocation in the last Year
 <p align="left">
