@@ -7,6 +7,7 @@ I am a Data Analytics professional with experience in producing and consuming da
 
 I currently work as a software engineer for data products. In my rare free time I have been working with the Open Source community creating libraries that help Python developers and creating end-to-end data applications and distributing them using GitHub Packages and Google Cloud Plataform. 
 
+# My Stats Dashboard
 
 ## Github Stats
 <p align="left">
