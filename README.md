@@ -4,9 +4,9 @@
 
 ## About me          
 
-I am a Data Analytics professional with experience in producing and consuming data, focused on the end-to-end journey of data as a product, transforming it into insights for business. I worked as a BI Analyst, Data Analyst and Data & Analytics Engineer, working with Data Visualization, ETL, Data Modeling and technologies such as Google Cloud Platform, Google BigQuery, Apache Beam, AirFlow, SQL, Power BI and Looker Studio.
+I am a Data Analytics professional with extensive experience in producing and consuming data, specializing in the end-to-end journey of data as a product to generate actionable business insights. Throughout my career, I have worked as a BI Analyst, Data Analyst, and Data & Analytics Engineer, focusing on Data Visualization, ETL, Data Modeling, and leveraging technologies such as Google Cloud Platform, Google BigQuery, Apache Beam, AirFlow, SQL, Power BI, and Looker Studio.
 
-I currently work as a software engineer for data products. In my rare free time I have been working with the Open Source community creating libraries that help Python developers and creating end-to-end data applications and distributing them using GitHub Packages and Google Cloud Plataform. 
+Currently, I work as a software and data engineer, developing data solutions. In my free time, I contribute to the Open Source community by creating libraries for Python developers, building end-to-end data applications, and advancing observability practices with OpenTelemetry, distributing these solutions through GitHub Packages and Google Cloud Platform.
 
 ## Stats
 <p align="left">
