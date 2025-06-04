@@ -58,6 +58,8 @@ Currently, I work as a software and data engineer, developing data solutions. In
 
 - [data-pipeline-sync](https://github.com/ivanildobarauna-dev/data-pipeline-sync-ingest) - ETL Process for Currency Quotes Data" project is a complete solution dedicated to extracting, transforming and loading (ETL) currency quote data. This project uses several advanced techniques and architectures to ensure the efficiency and robustness of the ETL process.
 
+- [Medium Article](https://medium.com/@IvanildoBarauna/ter-um-site-pessoal-%C3%A9-o-melhor-projeto-de-engenharia-que-voc%C3%AA-pode-fazer-por-voc%C3%AA-mesmo-ac21ddce01d7) - Having a personal website is the best engineering project you can do for yourself. 
+
 ---
 
 ⭐️ From [IvanildoBarauna](https://github.com/IvanildoBarauna)
