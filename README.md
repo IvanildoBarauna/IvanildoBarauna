@@ -35,14 +35,6 @@ Currently, I work as a software and data engineer, developing data solutions. In
 - Looker Studio
 - Data Analysis
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <a href="https://github.com/IvanildoBarauna/ETL-awesome-api">
-    <img align="bottom" src="https://github-readme-stats.vercel.app/api?username=IvanildoBarauna&hide=stars,contribs&show=prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=percentile&hide_border=true&hide_title=true" width="400" height="150" />
- </a>
-</p>
-
 ## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/ivanildobarauna/)
