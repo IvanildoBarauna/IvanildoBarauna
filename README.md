@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Ivan+👋;Data+and+Software+Engineer&font=Fira+Code&center=true&width=500&height=50&color=00A8E8" alt="Typing animation" />
+  <h1>Hi, I'm Ivanildo Barauna 👋</h1>
+  <p><strong>Data Engineer · Open Source Maintainer · Backend Developer</strong></p>
 </div>
 
 <div align="center">
@@ -77,19 +78,6 @@ When I'm not coding, I'm contributing to open source, exploring new data technol
 | [**apibrasil-py**](https://github.com/ivanildobarauna-dev/apibrasil-py) | Python SDK for the APIBrasil platform integration | Python, SDK, PyPI |
 | [**data-pipeline-sync-ingest**](https://github.com/ivanildobarauna-dev/data-pipeline-sync-ingest) | ETL pipeline for currency quotes data with advanced data engineering practices | Python, GCP, BigQuery, Airflow |
 | [**ivanildobarauna.dev**](https://github.com/ivanildobarauna-dev/ivanildobarauna.dev) | Personal portfolio website with GitHub integration and dynamic project listings | Next.js, TypeScript, SSR |
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanildoBarauna&theme=transparent&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanildoBarauna&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanildoBarauna&theme=transparent&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
 
 ---
 
