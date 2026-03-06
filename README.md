@@ -1,57 +1,118 @@
-# My current technology stack, subject to changes or updates without prior notice.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Ivan+👋;Data+and+Software+Engineer&font=Fira+Code&center=true&width=500&height=50&color=00A8E8" alt="Typing animation" />
+</div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
+<div align="center">
 
-## 👨‍💻 About Me          
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivanildobarauna/)
+[![Website](https://img.shields.io/badge/Website-00A8E8?style=for-the-badge&logo=vercel&logoColor=white)](https://ivanildobarauna.dev)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@IvanildoBarauna)
 
-I am a Data Analytics professional with extensive experience in producing and consuming data, specializing in the end-to-end journey of data as a product to generate actionable business insights. Throughout my career, I have worked as a BI Analyst, Data Analyst, and Data & Analytics Engineer, focusing on Data Visualization, ETL, Data Modeling, and leveraging technologies such as Google Cloud Platform, Google BigQuery, Apache Beam, AirFlow, SQL, Power BI, and Looker Studio.
-
-Currently, I work as a software and data engineer, developing data solutions. In my free time, I contribute to the Open Source community by creating libraries for Python developers, building end-to-end data applications, and advancing observability practices with OpenTelemetry, distributing these solutions through GitHub Packages and Google Cloud Platform.
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-- Python (FastAPI, Flask)
-- SQL with technologies: BigQuery, MySQL, MSSQL, Postgress, PL/SQL)
-- Golang
-
-### Cloud & DevOps
-- Google Cloud Platform
-- Docker
-- GitHub Actions
-- CI/CD
-
-### Data Engineering
-- Apache Airflow
-- Apache Spark
-- Apache Beam
-- ETL/ELT
-- Data Modeling
-- Data Warehousing
-- Data Lakehouse
-
-### Data Analytics & Visualization
-- Power BI
-- Looker Studio
-- Data Analysis
-
-## 📫 Contact
-
-- [LinkedIn](https://www.linkedin.com/in/ivanildobarauna/)
-- [Website](https://ivanildobarauna.dev/)
-
-## 🌟 Featured Projects
-
-- [api-to-dataframe](https://github.com/ivanildobarauna-dev/api-to-dataframe) - Python library that simplifies obtaining data from API endpoints by converting them directly into Pandas DataFrames. This library offers robust features, including retry strategies for failed requests.
-
-- [currency-quote](https://github.com/ivanildobarauna-dev/currency-quote) - Complete solution for extracting currency pair quotes data with comprehensive testing, parameter validation, flexible configuration management, Hexagonal Architecture, CI/CD pipelines, code quality tools, and detailed documentation.
-
-- [data-pipeline-async](https://github.com/ivanildobarauna-dev/data-pipeline-async-ingest) - Pipeline for processing and consuming streaming data from Pub/Sub, integrating with Dataflow for real-time data processing
-
-- [data-pipeline-sync](https://github.com/ivanildobarauna-dev/data-pipeline-sync-ingest) - ETL Process for Currency Quotes Data" project is a complete solution dedicated to extracting, transforming and loading (ETL) currency quote data. This project uses several advanced techniques and architectures to ensure the efficiency and robustness of the ETL process.
-
-- [Medium Article](https://medium.com/@IvanildoBarauna/ter-um-site-pessoal-%C3%A9-o-melhor-projeto-de-engenharia-que-voc%C3%AA-pode-fazer-por-voc%C3%AA-mesmo-ac21ddce01d7) - Having a personal website is the best engineering project you can do for yourself. 
+</div>
 
 ---
 
-⭐️ From [IvanildoBarauna](https://github.com/IvanildoBarauna)
+## 👨‍💻 About Me
+
+I'm a **Data Engineer and Open Source Maintainer** with a passion for building end-to-end data solutions that drive actionable business insights. My journey started in Data Analytics (BI Analyst, Data Analyst) and evolved into Data & Analytics Engineering, where I now focus on:
+
+- 🏗️ **Data Pipelines & ETL**: Building scalable, production-ready pipelines on GCP (BigQuery, Dataflow, Pub/Sub)
+- 📦 **Open Source Python Libraries**: Creating reusable, well-tested tools for the Python community (distributed via PyPI and GitHub Packages)
+- 🔭 **Observability & Monitoring**: Advancing distributed tracing and metrics with OpenTelemetry, ensuring visibility across systems
+- 💻 **Backend Development**: FastAPI, Flask, and modern Python practices for robust APIs
+
+When I'm not coding, I'm contributing to open source, exploring new data technologies, and sharing knowledge through articles and projects.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
+</div>
+
+### **Frameworks & Libraries**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40" alt="Apache Airflow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40" alt="Apache Spark"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
+</div>
+
+### **Cloud & DevOps**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+</div>
+
+### **Observability & Data**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+</div>
+
+<div>
+
+**Big Query** • **Power BI** • **Looker Studio** • **OpenTelemetry** • **DataDog** • **Apache Beam** • **GitHub Actions** • **CI/CD**
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| [**api-to-dataframe**](https://github.com/ivanildobarauna-dev/api-to-dataframe) | REST API → Pandas DataFrames with retry logic, schema validation, and intelligent type inference | Python, Pandas, PyPI |
+| [**currency-quote**](https://github.com/ivanildobarauna-dev/currency-quote) | Complete currency quotes solution with Hexagonal Architecture, comprehensive testing, and CI/CD pipelines | Python, FastAPI, PyPI |
+| [**open-o11y-wrapper**](https://github.com/ivanildobarauna-dev/open-o11y-wrapper) | OpenTelemetry wrapper for sending traces, metrics, and logs via OTLP Protocol | Python, OpenTelemetry |
+| [**apibrasil-py**](https://github.com/ivanildobarauna-dev/apibrasil-py) | Python SDK for the APIBrasil platform integration | Python, SDK, PyPI |
+| [**data-pipeline-sync-ingest**](https://github.com/ivanildobarauna-dev/data-pipeline-sync-ingest) | ETL pipeline for currency quotes data with advanced data engineering practices | Python, GCP, BigQuery, Airflow |
+| [**ivanildobarauna.dev**](https://github.com/ivanildobarauna-dev/ivanildobarauna.dev) | Personal portfolio website with GitHub integration and dynamic project listings | Next.js, TypeScript, SSR |
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanildoBarauna&theme=transparent&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IvanildoBarauna&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanildoBarauna&theme=transparent&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+## 📖 Latest Articles & Learning
+
+I regularly share insights and tutorials on [Medium](https://medium.com/@IvanildoBarauna). Topics include data engineering best practices, Python libraries, and cloud architecture.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaborations on:
+- 🔧 Data engineering challenges and architectural discussions
+- 📚 Open source contributions and library maintenance
+- 🎯 Building data products and analytics solutions
+- 🌐 Backend development and API design
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ivanildobarauna/) or check out my [website](https://ivanildobarauna.dev) for more information.
+
+---
+
+<div align="center">
+
+⭐️ **If you find my projects useful, consider starring them on GitHub!** ⭐️
+
+</div>
