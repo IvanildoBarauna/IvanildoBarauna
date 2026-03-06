@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Ivanildo Barauna 👋</h1>
-  <p><strong>Data Engineer · Open Source Maintainer · Backend Developer</strong></p>
+  <p><strong>Data and Software Engineer · IT Problem Solver </strong></p>
 </div>
 
 <div align="center">
