@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi, I'm Ivanildo Barauna 👋</h1>
-  <p><strong>Data and Software Engineer · IT Problem Solver </strong></p>
+  <h1>Ivanildo Barauna 👋</h1>
+  <p><strong>Senior Data Engineer · Software-to-Data Approach</strong></p>
 </div>
 
 <div align="center">
@@ -13,94 +13,78 @@
 
 ---
 
-## 👨‍💻 About Me
+## ⚙️ About
 
-I'm a **Data Engineer and Open Source Maintainer** with a passion for building end-to-end data solutions that drive actionable business insights. My journey started in Data Analytics (BI Analyst, Data Analyst) and evolved into Data & Analytics Engineering, where I now focus on:
+I build systems that bridge **data and software engineering**, turning analytical insights into **production-grade decision systems**.
 
-- 🏗️ **Data Pipelines & ETL**: Building scalable, production-ready pipelines on GCP (BigQuery, Dataflow, Pub/Sub)
-- 📦 **Open Source Python Libraries**: Creating reusable, well-tested tools for the Python community (distributed via PyPI and GitHub Packages)
-- 🔭 **Observability & Monitoring**: Advancing distributed tracing and metrics with OpenTelemetry, ensuring visibility across systems
-- 💻 **Backend Development**: FastAPI, Flask, and modern Python practices for robust APIs
+My work goes beyond traditional data pipelines. I design and implement **microservices, APIs, and data platforms** that enable real-time processing, automation, and observability.
 
-When I'm not coding, I'm contributing to open source, exploring new data technologies, and sharing knowledge through articles and projects.
+- **Decision Automation**: Transforming data into automated business actions  
+- **Data Engineering**: Scalable pipelines and lakehouse architectures on GCP  
+- **Backend Engineering**: Python microservices with clean architecture principles  
+- **Observability**: Distributed tracing and monitoring with OpenTelemetry & Datadog  
+
+Background in **Business Intelligence**, bringing strong context from data consumption to data production.
+
+---
+
+## 🧠 Core Approach
+
+> Data should not only be analyzed — it should be executed.
+
+- Software-to-Data mindset  
+- Event-driven and distributed systems  
+- End-to-End ownership (ingestion → decision)  
+- Systems designed for reliability and scale  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Languages**
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL"/>
-</div>
+**Languages**  
+Python · Go · TypeScript · SQL  
 
-### **Frameworks & Libraries**
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40" alt="Apache Airflow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40" alt="Apache Spark"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js"/>
-</div>
+**Data & Cloud**  
+GCP (BigQuery, Dataflow, Pub/Sub) · Airflow · Data Modeling · Lakehouse  
 
-### **Cloud & DevOps**
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-</div>
+**Software Engineering**  
+APIs · Microservices · Hexagonal Architecture · DDD · CI/CD  
 
-### **Observability & Data**
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="SQL Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-</div>
-
-<div>
-
-**Big Query** • **Power BI** • **Looker Studio** • **OpenTelemetry** • **DataDog** • **Apache Beam** • **GitHub Actions** • **CI/CD**
-
-</div>
+**Observability**  
+OpenTelemetry · Datadog  
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [**api-to-dataframe**](https://github.com/ivanildobarauna-dev/api-to-dataframe) | REST API → Pandas DataFrames with retry logic, schema validation, and intelligent type inference | Python, Pandas, PyPI |
-| [**currency-quote**](https://github.com/ivanildobarauna-dev/currency-quote) | Complete currency quotes solution with Hexagonal Architecture, comprehensive testing, and CI/CD pipelines | Python, FastAPI, PyPI |
-| [**open-o11y-wrapper**](https://github.com/ivanildobarauna-dev/open-o11y-wrapper) | OpenTelemetry wrapper for sending traces, metrics, and logs via OTLP Protocol | Python, OpenTelemetry |
-| [**apibrasil-py**](https://github.com/ivanildobarauna-dev/apibrasil-py) | Python SDK for the APIBrasil platform integration | Python, SDK, PyPI |
-| [**data-pipeline-sync-ingest**](https://github.com/ivanildobarauna-dev/data-pipeline-sync-ingest) | ETL pipeline for currency quotes data with advanced data engineering practices | Python, GCP, BigQuery, Airflow |
-| [**ivanildobarauna.dev**](https://github.com/ivanildobarauna-dev/ivanildobarauna.dev) | Personal portfolio website with GitHub integration and dynamic project listings | Next.js, TypeScript, SSR |
-
----
-
-## 📖 Latest Articles & Learning
-
-I regularly share insights and tutorials on [Medium](https://medium.com/@IvanildoBarauna). Topics include data engineering best practices, Python libraries, and cloud architecture.
+| Project | Description |
+|--------|------------|
+| [**api-to-dataframe**](https://github.com/ivanildobarauna-dev/api-to-dataframe) | Transform APIs into structured datasets with schema validation and intelligent typing |
+| [**currency-quote**](https://github.com/ivanildobarauna-dev/currency-quote) | Decision-oriented microservice using clean architecture and strong testing practices |
+| [**open-o11y-wrapper**](https://github.com/ivanildobarauna-dev/open-o11y-wrapper) | OpenTelemetry abstraction for traces, metrics, and logs |
+| [**data-pipeline-sync-ingest**](https://github.com/ivanildobarauna-dev/data-pipeline-sync-ingest) | Production-grade data pipeline with GCP and orchestration |
+| [**apibrasil-py**](https://github.com/ivanildobarauna-dev/apibrasil-py) | Python SDK for APIBrasil integration |
 
 ---
 
-## 🤝 Let's Connect
+## 📚 Writing
 
-I'm always open to collaborations on:
-- 🔧 Data engineering challenges and architectural discussions
-- 📚 Open source contributions and library maintenance
-- 🎯 Building data products and analytics solutions
-- 🌐 Backend development and API design
+I share practical insights on data engineering, software design, and system architecture on [Medium](https://medium.com/@IvanildoBarauna).
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ivanildobarauna/) or check out my [website](https://ivanildobarauna.dev) for more information.
+---
+
+## 🤝 Collaboration
+
+Open to:
+- Data platform and architecture discussions  
+- Backend + Data system design  
+- Open source contributions  
+- Building data-driven products  
 
 ---
 
 <div align="center">
 
-⭐️ **If you find my projects useful, consider starring them on GitHub!** ⭐️
+⭐ If you find my work useful, consider starring the projects.
 
 </div>
